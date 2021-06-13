@@ -8,7 +8,11 @@ background-size: cover;
 position: relative;
 background-attachment: fixed;
 }
-
+.rowu {
+    width: 80%;
+    margin: auto;
+    text-align:center;
+}
 .columnu {
     float: left;
     width: 31%;
